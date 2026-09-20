@@ -2,6 +2,12 @@
 
 An end-to-end data science project using **Python, College Scorecard, and IPEDS data** to analyze institutional characteristics associated with student outcomes and build predictive models for graduation performance.
 
+## Project Documentation
+
+- [Full Project Report](Kedeesh_Nolan_Academic_Risk_Prediction_Report.pdf)
+- [Final Presentation](Kedeesh_Nolan_Academic_Risk_Prediction_Presentation.pdf)
+
+
 ## Project Overview
 
 Student success and degree completion are important measures of institutional performance in higher education. This project explores how enrollment characteristics, institutional attributes, financial indicators, and student outcome measures can be used to analyze patterns associated with graduation performance.
